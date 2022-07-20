@@ -1,0 +1,74 @@
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Zstandard.Net.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Renci.SshNet.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Buffers.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Memory.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\MySql.Data.xml
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe.config
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Transparent Form.exe
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Transparent Form.pdb
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Guna.UI2.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Google.Protobuf.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Zstandard.Net.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\BouncyCastle.Crypto.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Ubiety.Dns.Core.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\Renci.SshNet.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\System.Buffers.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\K4os.Compression.LZ4.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\K4os.Hash.xxHash.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\System.Memory.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\System.Numerics.Vectors.dll
+K:\workspace 2017\Student Management System\Transparent Form\bin\Debug\MySql.Data.xml
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.CourseForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.LoginForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.MainForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageCourseForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageScoreForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ManageStudentForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintCourseForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintScoreForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.PrintStudent.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.RegisterForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.ScoreForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent_Form.SplashForm.resources
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.GenerateResource.cache
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Student Management System.csproj.CopyComplete
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent Form.exe
+K:\workspace 2017\Student Management System\Transparent Form\obj\Debug\Transparent Form.pdb

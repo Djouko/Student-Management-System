@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe.config
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.Form1.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent_Form.Properties.Resources.resources
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.exe
+C:\Users\acer\source\repos\Transparent Form\Transparent Form\obj\Debug\Transparent Form.pdb

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD5FFA51-27EF-4B14-9309-C4F69D4E257A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Transparent_Form</RootNamespace>
+    <AssemblyName>Transparent Form</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CourseClass.cs" />
+    <Compile Include="CourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourseForm.Designer.cs">
+      <DependentUpon>CourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBconnect.cs" />
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageCourseForm.Designer.cs">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageScoreForm.Designer.cs">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageStudentForm.Designer.cs">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCourseForm.Designer.cs">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintScoreForm.Designer.cs">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintStudent.Designer.cs">
+      <DependentUpon>PrintStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScoreClass.cs" />
+    <Compile Include="ScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScoreForm.Designer.cs">
+      <DependentUpon>ScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashForm.Designer.cs">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentClass.cs" />
+    <EmbeddedResource Include="CourseForm.resx">
+      <DependentUpon>CourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageCourseForm.resx">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageScoreForm.resx">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStudentForm.resx">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCourseForm.resx">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintScoreForm.resx">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintStudent.resx">
+      <DependentUpon>PrintStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScoreForm.resx">
+      <DependentUpon>ScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashForm.resx">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinterest_profile_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classroom_50whitepx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classroomblue_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classroom_50coverpx.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
